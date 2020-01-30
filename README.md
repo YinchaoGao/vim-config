@@ -11,3 +11,4 @@
 - preservim/nerdtree
 - SirVer/ultisnips | honza/vim-snippets
 - junegunn/vim-easy-align
+- iamcco/markdown-preview.nvim
