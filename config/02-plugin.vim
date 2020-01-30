@@ -10,4 +10,8 @@ map <F2> :NERDTreeToggle<CR>
 
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 
+Plug 'junegunn/vim-easy-align'
+xmap ga <Plug>(EasyAlign)
+nmap ga <Plug>(EasyAlign)
+
 call plug#end()

@@ -10,3 +10,4 @@
 采用插件：
 - preservim/nerdtree
 - SirVer/ultisnips | honza/vim-snippets
+- junegunn/vim-easy-align
