@@ -9,3 +9,4 @@
     - 03-advanced.vim 高级配置
 采用插件：
 - preservim/nerdtree
+- SirVer/ultisnips | honza/vim-snippets

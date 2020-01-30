@@ -8,4 +8,6 @@ autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists("s:std_in
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 map <F2> :NERDTreeToggle<CR>
 
+Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
+
 call plug#end()
