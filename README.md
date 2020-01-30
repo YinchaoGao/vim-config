@@ -7,4 +7,5 @@
     - 01-basic.vim 基础配置
     - 02-plugin.vim 插件配置
     - 03-advanced.vim 高级配置
-
+采用插件：
+- preservim/nerdtree
