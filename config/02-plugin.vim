@@ -18,4 +18,6 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
+Plug 'editorconfig/editorconfig-vim'
+
 call plug#end()
