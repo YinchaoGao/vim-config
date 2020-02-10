@@ -16,4 +16,6 @@ nmap ga <Plug>(EasyAlign)
 
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
 
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
 call plug#end()
