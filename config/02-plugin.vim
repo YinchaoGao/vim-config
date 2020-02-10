@@ -13,7 +13,7 @@ Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'junegunn/vim-easy-align'
 map <leader>ga <Plug>(EasyAlign)
 
-Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
+Plug 'YinchaoGao/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
