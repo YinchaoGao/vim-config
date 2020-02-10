@@ -1,18 +1,16 @@
 filetype indent plugin on
 set autoindent
 syntax on
+set autochdir
+set autoread
 
 set nu
 set relativenumber
-
 set cul
 set cuc
 
 set laststatus=2
 set ruler
-
-set autochdir
-set autoread
 
 set listchars=tab:»■,trail:■
 set list

@@ -11,8 +11,7 @@ map <F2> :NERDTreeToggle<CR>
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 
 Plug 'junegunn/vim-easy-align'
-xmap ga <Plug>(EasyAlign)
-nmap ga <Plug>(EasyAlign)
+map <leader>ga <Plug>(EasyAlign)
 
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
 
@@ -21,5 +20,6 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'editorconfig/editorconfig-vim'
 
 Plug 'sbdchd/neoformat'
+map <leader>fmt :Neoformat<CR>
 
 call plug#end()
