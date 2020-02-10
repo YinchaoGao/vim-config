@@ -20,4 +20,6 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 Plug 'editorconfig/editorconfig-vim'
 
+Plug 'sbdchd/neoformat'
+
 call plug#end()
