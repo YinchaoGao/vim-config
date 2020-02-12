@@ -27,4 +27,6 @@ Plug 'vim-airline/vim-airline-themes'
 
 Plug 'mattn/emmet-vim'
 
+Plug 'jiangmiao/auto-pairs'
+
 call plug#end()
