@@ -25,4 +25,6 @@ map <leader>fmt :Neoformat<CR>
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
+Plug 'mattn/emmet-vim'
+
 call plug#end()
