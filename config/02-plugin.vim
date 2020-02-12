@@ -22,4 +22,7 @@ Plug 'editorconfig/editorconfig-vim'
 Plug 'sbdchd/neoformat'
 map <leader>fmt :Neoformat<CR>
 
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
 call plug#end()
