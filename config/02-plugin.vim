@@ -31,4 +31,7 @@ Plug 'jiangmiao/auto-pairs'
 
 Plug 'scrooloose/nerdcommenter'
 
+Plug 'majutsushi/tagbar'
+map <F3> :TagbarToggle<CR>
+
 call plug#end()
