@@ -29,4 +29,6 @@ Plug 'mattn/emmet-vim'
 
 Plug 'jiangmiao/auto-pairs'
 
+Plug 'scrooloose/nerdcommenter'
+
 call plug#end()
