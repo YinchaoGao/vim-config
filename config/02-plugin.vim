@@ -36,4 +36,6 @@ map <F3> :TagbarToggle<CR>
 
 Plug 'airblade/vim-gitgutter'
 
+Plug 'terryma/vim-multiple-cursors'
+
 call plug#end()
