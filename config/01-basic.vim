@@ -3,6 +3,7 @@ set autoindent
 syntax on
 set autochdir
 set autoread
+set updatetime=1000
 
 set nu
 set relativenumber

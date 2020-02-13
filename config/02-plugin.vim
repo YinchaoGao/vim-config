@@ -34,4 +34,6 @@ Plug 'scrooloose/nerdcommenter'
 Plug 'majutsushi/tagbar'
 map <F3> :TagbarToggle<CR>
 
+Plug 'airblade/vim-gitgutter'
+
 call plug#end()
