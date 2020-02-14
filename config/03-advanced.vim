@@ -16,5 +16,3 @@ map <C-l> <C-w>l
 map H ^
 map L $
 
-map <leader>cs ggVG:s/^ \+$//<CR>
-map <leader>cel :g/^$/d<CR>
