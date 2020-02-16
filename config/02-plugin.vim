@@ -38,4 +38,6 @@ Plug 'airblade/vim-gitgutter'
 
 Plug 'terryma/vim-multiple-cursors'
 
+Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
+
 call plug#end()
