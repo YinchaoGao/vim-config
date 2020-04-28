@@ -13,7 +13,7 @@ Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'junegunn/vim-easy-align'
 map <leader>ga <Plug>(EasyAlign)
 
-Plug 'YinchaoGao/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
+Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
@@ -22,8 +22,7 @@ Plug 'editorconfig/editorconfig-vim'
 Plug 'sbdchd/neoformat'
 map <leader>fmt :Neoformat<CR>
 
-Plug 'vim-airline/vim-airline'
-Plug 'vim-airline/vim-airline-themes'
+Plug 'vim-airline/vim-airline' | Plug 'vim-airline/vim-airline-themes'
 
 Plug 'mattn/emmet-vim'
 
