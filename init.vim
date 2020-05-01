@@ -10,6 +10,6 @@ for p in keys(plugs)
 endfor
 
 if uninstalled
-  echom "install" uninstalled "plugins..."
+  echom "Installing" uninstalled "plugins..."
   PlugInstall --sync | q
 endif
