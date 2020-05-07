@@ -3,14 +3,13 @@ syntax on
 set autoindent
 set autochdir
 set autoread
+set autowrite
 
 set number
 set cursorline
 set cursorcolumn
-
 set laststatus=2
 set ruler
-
 set listchars=tab:»■,trail:■
 set list
 
@@ -28,5 +27,6 @@ set shiftwidth=4
 set expandtab
 set softtabstop=4
 
-set updatetime=500
+set updatetime=100
+set noswapfile
 let mapleader=";"
