@@ -39,4 +39,6 @@ Plug 'terryma/vim-multiple-cursors'
 
 Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
 
+Plug 'tpope/vim-fugitive'
+
 call plug#end()
