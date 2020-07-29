@@ -7,7 +7,6 @@ set autowrite
 
 set number
 set cursorline
-set cursorcolumn
 set laststatus=2
 set ruler
 set listchars=tab:»■,trail:■
