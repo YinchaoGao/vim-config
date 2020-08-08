@@ -16,7 +16,7 @@ map <leader>ga <Plug>(EasyAlign)
 Plug 'editorconfig/editorconfig-vim'
 
 Plug 'sbdchd/neoformat'
-map <leader>fmt :Neoformat<CR>
+map <C-S-I> :Neoformat<CR>
 
 Plug 'vim-airline/vim-airline' | Plug 'vim-airline/vim-airline-themes'
 
