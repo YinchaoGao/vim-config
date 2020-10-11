@@ -38,4 +38,6 @@ Plug 'terryma/vim-multiple-cursors'
 
 Plug 'tpope/vim-fugitive'
 
+Plug 'plasticboy/vim-markdown'
+
 call plug#end()
