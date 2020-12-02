@@ -25,18 +25,12 @@ Plug 'vim-airline/vim-airline' | Plug 'vim-airline/vim-airline-themes'
 
 Plug 'mattn/emmet-vim'
 
-Plug 'jiangmiao/auto-pairs'
-
 Plug 'scrooloose/nerdcommenter'
 
 Plug 'majutsushi/tagbar'
 map <F3> :TagbarToggle<CR>
 
-Plug 'airblade/vim-gitgutter'
-
 Plug 'terryma/vim-multiple-cursors'
-
-Plug 'tpope/vim-fugitive'
 
 Plug 'plasticboy/vim-markdown'
 
